@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "faculty_expertise"
+  site-url: "https://caylor.github.io/faculty_expertise"
+  description: "Scraping and structured semantic analysis of campus faculty expertise"
+  repo-branch: main
+  repo-url: "https://github.com/caylor/faculty_expertise"
