@@ -1,0 +1,134 @@
+Traceback (most recent call last):
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/bin/nbdev_export", line 10, in <module>
+    sys.exit(nbdev_export())
+             ^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/fastcore/script.py", line 121, in _f
+    return tfunc(**merge(args, args_from_prog(func, xtra)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 157, in nbdev_export
+    _build_modidx()
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 114, in _build_modidx
+    res['syms'].update(_get_modidx((dest.parent/file).resolve(), code_root, nbs_path=nbs_path))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 91, in _get_modidx
+    for tree in ast.parse(cell.code).body:
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 69
+    "Photo URL": None  # Could extract this from the image if needed
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+Traceback (most recent call last):
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/bin/nbdev_export", line 10, in <module>
+    sys.exit(nbdev_export())
+             ^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/fastcore/script.py", line 121, in _f
+    return tfunc(**merge(args, args_from_prog(func, xtra)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 157, in nbdev_export
+    _build_modidx()
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 114, in _build_modidx
+    res['syms'].update(_get_modidx((dest.parent/file).resolve(), code_root, nbs_path=nbs_path))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 91, in _get_modidx
+    for tree in ast.parse(cell.code).body:
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 69
+    "Photo URL": None  # Could extract this from the image if needed
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+Traceback (most recent call last):
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/bin/nbdev_export", line 10, in <module>
+    sys.exit(nbdev_export())
+             ^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/fastcore/script.py", line 121, in _f
+    return tfunc(**merge(args, args_from_prog(func, xtra)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 157, in nbdev_export
+    _build_modidx()
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 114, in _build_modidx
+    res['syms'].update(_get_modidx((dest.parent/file).resolve(), code_root, nbs_path=nbs_path))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 91, in _get_modidx
+    for tree in ast.parse(cell.code).body:
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 69
+    "Photo URL": None  # Could extract this from the image if needed
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+Traceback (most recent call last):
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/bin/nbdev_export", line 10, in <module>
+    sys.exit(nbdev_export())
+             ^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/fastcore/script.py", line 121, in _f
+    return tfunc(**merge(args, args_from_prog(func, xtra)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 157, in nbdev_export
+    _build_modidx()
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 114, in _build_modidx
+    res['syms'].update(_get_modidx((dest.parent/file).resolve(), code_root, nbs_path=nbs_path))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 91, in _get_modidx
+    for tree in ast.parse(cell.code).body:
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 69
+    "Photo URL": None  # Could extract this from the image if needed
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+Traceback (most recent call last):
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/bin/nbdev_export", line 10, in <module>
+    sys.exit(nbdev_export())
+             ^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/fastcore/script.py", line 121, in _f
+    return tfunc(**merge(args, args_from_prog(func, xtra)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 157, in nbdev_export
+    _build_modidx()
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 114, in _build_modidx
+    res['syms'].update(_get_modidx((dest.parent/file).resolve(), code_root, nbs_path=nbs_path))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 91, in _get_modidx
+    for tree in ast.parse(cell.code).body:
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 69
+    "Photo URL": None  # Could extract this from the image if needed
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: invalid syntax. Perhaps you forgot a comma?
+Traceback (most recent call last):
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/bin/nbdev_export", line 10, in <module>
+    sys.exit(nbdev_export())
+             ^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/fastcore/script.py", line 121, in _f
+    return tfunc(**merge(args, args_from_prog(func, xtra)))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 157, in nbdev_export
+    _build_modidx()
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 114, in _build_modidx
+    res['syms'].update(_get_modidx((dest.parent/file).resolve(), code_root, nbs_path=nbs_path))
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/site-packages/nbdev/doclinks.py", line 91, in _get_modidx
+    for tree in ast.parse(cell.code).body:
+                ^^^^^^^^^^^^^^^^^^^^
+  File "/Users/kellycaylor/mambaforge/envs/faculty_directory/lib/python3.11/ast.py", line 50, in parse
+    return compile(source, filename, mode, flags,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<unknown>", line 115
+    "Department", "Mathematics"
+               ^
+SyntaxError: ':' expected after dictionary key
+entr: exec nbdev_export: No such file or directory
+entr: exec nbdev_export: No such file or directory
